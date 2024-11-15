@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+odpath/__init__.py
+odpath/src.py
+odpath.egg-info/PKG-INFO
+odpath.egg-info/SOURCES.txt
+odpath.egg-info/dependency_links.txt
+odpath.egg-info/requires.txt
+odpath.egg-info/top_level.txt
